@@ -1,0 +1,1 @@
+Esse trabalho tem como objetivo fazer uma soma recursiva e N valores. Pode ser utilizado ou modificado por qualquer pessoa.
